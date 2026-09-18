@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GestorEstocBotiga.Tests/GestorEstocBotiga.Tests.csproj" />
+  <Project Path="GestorEstocBotiga/GestorEstocBotiga.csproj" />
+</Solution>
